@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
 
-var = input("Please enter something: ")
+var = input("Por favor ingrese numero maximo de iteraciones: ")
 
-print("You entered: " + var)
+print("Iterando: " + var)
 
 response = requests.get('https://www.meltgroup.com/en/')
 
