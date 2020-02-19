@@ -1,7 +1,5 @@
-[![source](https://img.shields.io/badge/source-main-brightgreen.svg)][main]
 [![implementation](https://img.shields.io/badge/implementation-python-blue.svg)][python]
 
-[main]: https://github.com/BBK-PiJ-2016-52/viagogo-coding-challenge/tree/master/src/main/java
 [python]: http://docs.oracle.com/javase/8/docs/api/
 
 # Melt Group Coding Challenge
